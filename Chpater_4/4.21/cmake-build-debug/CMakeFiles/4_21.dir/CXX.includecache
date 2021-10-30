@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Cloud Storage/OneDrive/C++ Programming/Programming Exercises/Introduction_To_Programming_With_C++/Chpater_4/4.21/main.cpp
+iostream
+-
+string
+-
+
